@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints the phrase "Programming is ....."
- * Return: Always 0
+ * main - Printing
+ *
+ * Return: Always 0 (Successful)
  */
 int main(void)
 {
