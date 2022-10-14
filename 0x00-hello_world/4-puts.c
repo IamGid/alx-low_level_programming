@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main - entry
+ * main - prints the phrase "Programming is ....."
  * Return: Always 0
  */
 int main(void)
