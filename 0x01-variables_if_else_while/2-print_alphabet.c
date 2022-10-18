@@ -1,15 +1,16 @@
 #include <stdio.h>
 
 /**
- * main-printing entry point
- * Returen:0 if no error, non zero if error
- **/
+ * main - Prints alpha in lower case
+ * Return: Always 0
+ */
 int main(void)
 {
-	char i;
+	char lc;
 
-	for (i = 'a'; i <= 'z'; i++)
-	{putchar(i);
+	for (lc = 'a'; lc <= 'z'; lc++);
+	{
+		putchar(lc);
 	}
 	putchar('\n');
 	return (0);
